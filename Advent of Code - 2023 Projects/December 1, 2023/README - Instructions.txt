@@ -43,3 +43,7 @@ zoneight234
 In this example, the calibration values are 29, 83, 13, 24, 42, 14, and 76. Adding these together produces 281.
 
 What is the sum of all of the calibration values?
+
+Answer: 53539
+*Worth noting: There is a bug in the code that is not originally mentioned in the question set up relating to letters being both the end and beginning of a number.
+*For example: twone can be interpreted as "two-on" or "tw-one" but the question wants it to be read as "two-one".
